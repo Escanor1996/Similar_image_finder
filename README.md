@@ -41,5 +41,15 @@ Other files contains various utility functions that will be used in core program
 
 ## Results:
 
+Here are some results:
+
+![Result](https://github.com/Escanor1996/Similar_image_finder/blob/master/result/resnet50/resnet50_retrieval_1.png)
+
+![Result](https://github.com/Escanor1996/Similar_image_finder/blob/master/result/resnet50/resnet50_retrieval_3.png)
+
+![Result](https://github.com/Escanor1996/Similar_image_finder/blob/master/result/resnet50/resnet50_retrieval_4.png)
+
+![Result](https://github.com/Escanor1996/Similar_image_finder/blob/master/result/resnet50/resnet50_retrieval_5.png)
+
 
 
