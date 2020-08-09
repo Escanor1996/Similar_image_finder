@@ -19,6 +19,13 @@ Keras,sklearn,skimage
 3. test image will go to resnet50 and then it will get nearest neighbours from the previously fitted knn and the similar image will be stored in output folder.
 
 
+## Instruction to run:
+
+1. Clone this repo.
+2.Check if all necessary libraries are present or not
+3. Navigate to the project folder. put training dataset in data/train folder(only .jpeg and .jpg supported now) and your query images in test folder.
+4. Invoke the main program file by running:  python similar_image.py and when prompted provide the number of similar image you want to be fetched.
+5.After completion check the newly created output folder for results.
 
 
 ## folder strucutre:
