@@ -30,7 +30,7 @@ Keras,sklearn,skimage
 
 ## folder strucutre:
 
-Similar_image.py: It containes the core code. It needs to be invoked to get the similar images. It will ask for how many similar image to be fetced as input.
+Similar_image.py: It containes the core code. It needs to be invoked to get the similar images. It will ask for how many similar image to be fetched as input.
 
 data: In this folder training data will reside in train folder. Query image will reside in test folder(you can keep as many as you want).
 
